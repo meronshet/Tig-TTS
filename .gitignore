@@ -1,0 +1,8 @@
+__pycache__/
+train_output/
+training_data/
+.cache/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+run*.sh
