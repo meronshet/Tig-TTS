@@ -5,7 +5,7 @@ An implementation of Tigrinya Tacotron speech synthesis in TensorFlow.
 
 ### Audio Samples
 
-  * **[Audio Samples](https://keithito.github.io/audio-samples/)** from model trained using this research.
+  * **[Audio Samples](https://tigrinya-tts-beta.netlify.app)** from model trained using this research.
     * The first set was trained for 600K steps on the Audio book dataset prepared.
       * Speech started to become intelligible around 30K steps.
 
